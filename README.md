@@ -2,8 +2,11 @@
 A Task Manager application was created in React on the client side and Django Rest Framework on the server-side. So React serves as the front-end, handling UI through the requests to Django's backend.
 
 The prerequisites for this project are :
+
 1- Python
+
 2- Node.js 
+
 Install dependencies in the package.json file.
 
 To run:
