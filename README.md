@@ -13,7 +13,7 @@ To run:
 * cd backend, in the terminal run the command 
 ```python manage.py runserver```.
  Then go to Chrome and type the "http://localhost:8000/api/tasks/" command for the database.
-* cd frontend, run the command  ```npm start``` in the terminal. 
+* cd frontend, run the command  ```npm start``` in the terminal.("http://localhost:3000/")
 * A perfectly working todo app opens where you can add new tasks with descriptions, mark them as completed or not, and edit and delete them.
 
 
